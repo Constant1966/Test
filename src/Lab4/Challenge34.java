@@ -31,7 +31,7 @@ public class Challenge34 {
 		
 		
 		double area1 = (base * height) /2;
-		System.out.println("The area of your chosen sape is "+ area1);
+		System.out.println("The area of your chosen shape is "+ area1);
 		break;
 	default :
 		{
