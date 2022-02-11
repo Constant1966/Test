@@ -24,8 +24,7 @@ public class Challenge26 {
 			System.out.println(newword);
 		}
 		
-//		String first = String.valueOf(word);
-//		System.out.println(first);
+//if (!word.equals("a")) pour faire la differnce
 		
 
 	}
